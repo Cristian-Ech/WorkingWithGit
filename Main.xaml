@@ -107,6 +107,7 @@
           <InArgument x:TypeArguments="x:String">Sogamoso</InArgument>
           <InArgument x:TypeArguments="x:String">New Colombian Empire City</InArgument>
           <InArgument x:TypeArguments="x:String">Edinburgh</InArgument>
+          <InArgument x:TypeArguments="x:String">Boyaca Settlement</InArgument>
         </scg:List>
       </uasc:BuildCollection.NextItems>
     </uasc:BuildCollection>
